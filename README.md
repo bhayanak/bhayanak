@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhayanak
-- 👀 I’m interested in new programming language.
-- 🌱 I’m currently learning scala.
+- 👀 I’m interested in new programming language and technology.(learnt scala, Julia, aws, docker, kubernetes and few more)
+- 🌱 I’m currently learning golang language and cloudnative microservices.
 - 📫 How to reach me: why?
 
 <!---
