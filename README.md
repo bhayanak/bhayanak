@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhayanak
-- 👀 I’m interested in new programming language and technology.(learnt java, C++, javascript, scala, Julia, aws, docker, kubernetes and few more)
+- 👀 I’m interested in new programming language and technology.(learnt Golang, java, C++, javascript, scala, Julia, aws, docker, kubernetes and few more)
 - 🌱 I’m currently learning golang language and cloudnative microservices.
 - 📫 How to reach me: why?
 
