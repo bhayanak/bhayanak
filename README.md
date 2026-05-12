@@ -1,4 +1,4 @@
-# Hi, I'm Ajay
+# Hi, I'm Fazorboy/Ajay
 
 I build practical open-source tools around:
 - MCP servers for real-world systems and public APIs
