@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Featured projects
 
-- [MCP Servers](https://marketplace.visualstudio.com/publishers/bhayanak) - MCP servers vscode plugins, they all have servers also in **npmjs** for any GENAI agent support
+- [MCP Servers](https://marketplace.visualstudio.com/publishers/bhayanak) - MCP servers vscode plugins, they all have servers also in [**npmjs**](https://www.npmjs.com/~fazorboy) for any GENAI agent support
 - [Python tools](https://pypi.org/user/Bhayanak/) - tools you would love to explore and use or extend.
 - [Browser Extensions](https://addons.mozilla.org/en-US/firefox/user/19883423/) - Same available for EDGE browser and all chromium based from github release page (chrome store requires money to upload)
 
