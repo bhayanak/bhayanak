@@ -33,6 +33,3 @@ You can click the Preview link to take a look at your changes.
 If one of my tools saved you time, you can say thanks here:
 
 [![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/fazorboy)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bhayanak)](https://git.io/streak-stats)
