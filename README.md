@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 ### Some Fun projects
 - [Puzzles for kids](https://bhayanak.github.io/puzzler/index.html)
 - [Fun Race](https://bhayanak.github.io/velocity-moto/)
+- [Curly adventure](https://bhayanak.github.io/curly-adventure/)
+- [Tile-3d](https://bhayanak.github.io/tile-3d/)
 - [Fun time pass](https://bhayanak.github.io/escape-it/) 
 - [kids calculator](https://bhayanak.github.io/calculator/)
 
