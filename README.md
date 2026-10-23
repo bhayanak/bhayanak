@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 - [Downloader](https://github.com/bhayanak/swiftload-downloader) Ultra Fast Downloader in Golang for all OS.
 
 ### Some Fun projects
+- [RiftFall](https://bhayanak.github.io/riftfall-skybreak/)
 - [Puzzles for kids](https://bhayanak.github.io/puzzler/index.html)
 - [Fun Race](https://bhayanak.github.io/velocity-moto/)
 - [Curly adventure](https://bhayanak.github.io/curly-adventure/)
